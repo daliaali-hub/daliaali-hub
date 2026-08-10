@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dalia Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=7161EF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=7161EF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
 
 
 <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="500"/>
