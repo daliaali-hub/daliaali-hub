@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="500"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AC9,100:B6F500&height=200&section=header&text=Hi%20There,%20I'm%20Dalia%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=6C3AC9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science;Python+%7C+ML+%7C+Web+Basics" alt="Typing SVG" />
 
+
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="500"/>
 </div>
 
 ---
