@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="2000" alt="octocat-1786390898944" src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b2bf24f-b362-42ad-9767-0e367c77cec4" />
+<img width="2000" height="2000" alt="octocat-1786390898944" src="<img width="1920" height="1080" alt="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AC9,100:B6F500&height=200&section=header&text=Hi%20There,%20I'm%20Dalia%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
