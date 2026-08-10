@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Dalia Ali
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Aspiring+AI+Engineer;&repeat=false" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
 
 
