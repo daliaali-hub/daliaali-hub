@@ -18,4 +18,4 @@ I'm a third-year Computer Science student.<br>passionate about turning data into
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=daliaali-hub&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=daliaali-hub&theme=blue_navy&hide_border=false)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:6C3AC9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7161ef,100:6C3AC9&height=100&section=footer" width="100%"/>
