@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Dalia Ali ˙ᵕ˙
+# Hi there, I'm Dalia Ali
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=7161EF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
 
@@ -9,7 +9,7 @@
 </div>
 
 ---
-# 💫 About Me:
+# ˙ᵕ˙ About Me:
 I'm a third-year Computer Science student.<br>passionate about turning data into insights and building intelligent systems.<br>I'm currently on my journey to becoming an AI Engineer.
 
 
