@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="2000" height="2000" alt="octocat-1786390898944" src="https://github.com/user-attachments/assets/07dc2c6b-954c-422f-9d41-ddf5531dbe7a" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AC9,100:B6F500&height=200&section=header&text=Hi%20There,%20I'm%20Dalia%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=6C3AC9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science;Python+%7C+ML+%7C+Web+Basics" alt="Typing SVG" />
