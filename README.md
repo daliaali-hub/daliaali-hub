@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h2>Hi there, I'm Dalia Ali<\h2>
+#Hi there, I'm Dalia Ali
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=7161EF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
 
